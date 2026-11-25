@@ -1,0 +1,4 @@
+hospital_id,hospital_name,code,total_beds,available_beds,icu_beds,available_icu_beds,burn_beds,operating_theaters_available,blood_units_available,intake_limit_per_hour,is_accepting_casualties,specialties,contact_officer,lat,lng
+HOSP-ALPHA,Base General Military Hospital 101,HSP-01-MIL,50,20,12,7,4,3,35,14,true,"Trauma Surgery; Intensive Care (ICU); Orthopedic Surgery; General Emergency",Col. V. Raman (Chief Surgeon),34.020,74.720
+HOSP-BRAVO,Cantonment Emergency Field Hospital,HSP-02-FLD,35,16,8,5,6,2,25,10,true,"Trauma Surgery; General Emergency; Burn Unit",Lt. Col. Sarah Jenkins,34.160,74.960
+HOSP-CHARLIE,Civilian Apex Medical Institute,HSP-03-CIV,80,28,20,10,10,5,60,18,true,"Trauma Surgery; Burn Unit; Intensive Care (ICU); Orthopedic Surgery; CBRN Decontamination",Dr. Alok Verma (Director ER),33.980,74.840
